@@ -1,3 +1,8 @@
+
+.Rproj
+./data
+./images
+
 # History files
 .Rhistory
 .Rapp.history
